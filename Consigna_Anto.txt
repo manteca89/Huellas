@@ -1,0 +1,2 @@
+Puntos de la consigna cumplidos en la pagina de Antonella. 
+ Galeria de imagenes está maquetada con una grid de tres columnas de una fr cada una. Tiene una transformacion que consiste en un cambio de tamaño de las imagenes al pasar el mouse; cambio que afecta a las restantes imagenes de aquella sobre la que pasa el mouse en ese momento(:hover) con una transicion.  
